@@ -1,0 +1,5 @@
+aws:
+- account_id: 067907338167
+  account_name: 'keren@jit.io '
+  regions: []
+  type: account
